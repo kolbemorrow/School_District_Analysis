@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ### Overview of School District Analysis:
 An analysis of city district schools was conducted on math and reading scores, comparing average scores with the school spending budget, size and type of school. Due to academic dishonesty, reading and math grades for Thomas High School 9th graders were removed from the data set and a new analysis was conducted.
