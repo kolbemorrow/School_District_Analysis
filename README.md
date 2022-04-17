@@ -22,14 +22,23 @@ Replacing the ninth grade scores did not dramatically change Thomas High School'
 
 ## 1) Average Score by Grade
 Average score by grade before data removal:
+
 Math
+
 ![MODmath_score_grade](https://user-images.githubusercontent.com/99298165/163699613-cbbf5fb2-2c90-4822-b0e9-03aef6071588.png)
+
 Reading
+
 ![MODreading_score_grade](https://user-images.githubusercontent.com/99298165/163699619-9bd2f776-5abd-40f2-b984-e94e00424f4d.png)
+
 Average score by grade after data removal:
+
 Math 
+
 ![CHALmath_score_grade](https://user-images.githubusercontent.com/99298165/163699629-babc55f9-78a4-4c89-aaa5-a80a56f0d956.png)
+
 Reading
+
 ![CHALreading_score_grade](https://user-images.githubusercontent.com/99298165/163699638-ab35c5b6-0583-411a-8f10-b42a35a5ac6a.png)
 The calculated average score per grade was unchanged, however the ninth grade value has been replaced with nan to represent the data removal.
 ## 2) Scores by School Spending
