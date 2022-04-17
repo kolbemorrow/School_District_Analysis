@@ -40,6 +40,7 @@ Math
 Reading
 
 ![CHALreading_score_grade](https://user-images.githubusercontent.com/99298165/163699638-ab35c5b6-0583-411a-8f10-b42a35a5ac6a.png)
+
 The calculated average score per grade was unchanged, however the ninth grade value has been replaced with nan to represent the data removal.
 ## 2) Scores by School Spending
 Average scores by school spending before data removal:
