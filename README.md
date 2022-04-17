@@ -42,23 +42,42 @@ Reading
 ![CHALreading_score_grade](https://user-images.githubusercontent.com/99298165/163699638-ab35c5b6-0583-411a-8f10-b42a35a5ac6a.png)
 
 The calculated average score per grade was unchanged, however the ninth grade value has been replaced with nan to represent the data removal.
+
 ## 2) Scores by School Spending
+
 Average scores by school spending before data removal:
+
 ![MODspending_summary](https://user-images.githubusercontent.com/99298165/163700026-44c1aacc-07e9-4347-8882-14094b3da567.png)
+
 Average scores by school spending after:
+
 ![CHALspending_summary](https://user-images.githubusercontent.com/99298165/163700036-96e4a76e-76de-42c8-803a-e11117261f0e.png)
-All reading score percentages for each spending range increased as a result from the data removal. 
+
+All reading score percentages for each spending range increased as a result from the data removal.
+
 ## 3) Scores by School Size
+
 Average scores by school size before data removal:
+
 ![MODschool_size](https://user-images.githubusercontent.com/99298165/163700144-feb22bea-d091-4212-b02d-6b2f49fb0bec.png)
+
 Average scores by size after:
+
 ![CHALschool_size](https://user-images.githubusercontent.com/99298165/163700147-16cafd0d-7f8d-487f-bff1-504dcf529a64.png)
+
 Similar to the school spending analysis, all reading score percentages for each size range increased as a result from the data removal.
+
 ## 4) Scores by School Type
+
 Average scores by school type before data removal:
+
 ![MODtype_summary](https://user-images.githubusercontent.com/99298165/163700251-8ca1cc5f-f715-44e0-bad8-ddc81eba7f18.png)
+
 Average score by type after:
+
 ![CHALtype_summary](https://user-images.githubusercontent.com/99298165/163700270-4d6805cb-bf7c-4e2c-86f1-9c1d28fb2eaa.png)
+
 The average passing reading scores for district schools increased after the data removal.
+
 ### Summary:
 In conclusion, The removal of data decreased the whole district's overall math average compared to the original, all reading score percentages for each spending range and size range increased, and the overall district reading score average increased. Overall, because of the dramatic affect on statistics for the district a re-test of Thomas High School ninth graders should be considered.
